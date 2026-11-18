@@ -1,4 +1,5 @@
 {
   "name": "ULTRON Orb UI",
-  "description": "An Iron Man-inspired holographic orb built with Three.js and Next.js"
+  "description": "An Iron Man-inspired holographic orb built with Three.js and Next.js",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
